@@ -1,0 +1,23 @@
+{
+  "name": "business_homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CH-Webdev/business_homepage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://CH-Webdev.github.io/business_homepage",
+  "bugs": {
+    "url": "https://github.com/CH-Webdev/business_homepage/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
